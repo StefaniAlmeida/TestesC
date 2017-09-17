@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Teste de repetição usando for.
 int main()
 {
   int cont;
