@@ -1,3 +1,4 @@
+//Caracteres
 #include <stdio.h>
 
 int main()
